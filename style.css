@@ -318,10 +318,11 @@ aside {
 
 footer {
     background-color: var(--black);
-    color: var(--gray);
+    color: var(--light-gray);
     text-align: center;
     padding: 32px 48px;
-    font-size: 12px;
+    font-size: 5px;
+    font-weight: bold;
     letter-spacing: 0.06em;
 }
 
